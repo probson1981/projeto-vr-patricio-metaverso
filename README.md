@@ -4,6 +4,7 @@
 **Trilha:** SmartContracts  
 
 ## Link:  https://github.com/probson1981/projeto-vr-patricio-metaverso
+## Link YouTube: https://youtu.be/z1HVMIfXGCQ
 
 ## Descrição do Projeto
 
